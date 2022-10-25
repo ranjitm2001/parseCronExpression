@@ -1,0 +1,17 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define SET_WIDTH 14
+
+#define START_MINUTE 0
+#define LAST_MINUTE 59
+#define START_HOUR 0
+#define LAST_HOUR 23
+#define START_DAY_OF_MONTH 1
+#define LAST_DAY_OF_MONTH 31
+#define START_MONTH 1
+#define LAST_MONTH 12
+#define START_DAY_OF_WEEK 1
+#define LAST_DAY_OF_WEEK 7
+
+#endif // !CONSTANTS_H
